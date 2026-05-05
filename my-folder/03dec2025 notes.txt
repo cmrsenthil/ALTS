@@ -1,0 +1,391 @@
+03-december-2025
+IT-MCA,MTECH.....
+NON-IT
+Domain
+ECE -- HARDWARE COMPONENTS, ELECTIRICAL ITEMS
+       HARISH - DATA 
+       HARDWARE COMPONENTS-MOTHERBOARD, PROCESS...
+MECHNICAL-- 
+ELECTIRCAL
+BIOTECH --- 
+BIOMEDICAL (HOSPITAL INSTRUMENT DEALS,SALES OF THE MACHINE, BIOMEDICAL CODING)
+WHERE TO MAINTAIN DATA.
+CIVIL--- REAL ESTATE, CONSTRUCTIONS OF BUILIDING
+         SOIL, WATER, OTHER INSTRUMENTS.
+TELECOM--POST PAID, PREPAID, NETWORKS.....
+BANKING---- ATM, GPAY, PHONEPAY,SCAN
+FINANCE
+RETAIL
+ENTERTAINMENT
+TRANSPORT
+AUTO BOOKING---OLA, RABIDO
+
+DEPANDANT
+VERTICAL---- DOMAIN       CIVIL,MECHNACIAL,
+HORIZONTAL---TECHNOLOGIES
+TECHNOLOGIES PART
+WHAT IS MATHS.
+ALGEBRA-BRANCH OF MATHS
+RELATIONSHIP OF QUANTITIY
+UNKNOWN VARIABLE
+X1,X2,X3---ROLLNO GOING WITH ROLLNO.
+A1,a2,b3....
+y1,y2 y3
+formulas
+c=a+b
+what is a and b
+a=10
+b=20
+what is c value 30
+(a+b)2=a2+2ab+b2
+
+computer Language--- is solving mathematical equations that is called programming language.
+programming language-C, C++,JAVA, PYTHON
+
+mechnaic programming
+speed 
+senthil
+0000 0001 0000 0000 
+kumar
+00000000000
+
+assembly language
+nonmanic codes
+ADD
+SUB
+
+High level language(english language)
+sum=number1+number2
+
+C language why is called c programming language
+it is solved all the mathematical equations
+matrix  
+add matrix, 
+sub matrix
+mul matrix
+div matrix
+transpose
+reverse
+diagonal sum
+
+rows and columns
+
+dimensions
+one dimensions and multi dimensions
+one dimenions - vector
+multi - matrix
+
+Eienstin formula
+e=mc2
+e- energy
+m- mass
+c- constant(speed of light)
+pir2
+pi=3.14
+
+c program-tokens
+variables
+constants
+keywords
+
+y=f(x)--- functions
+y=attended ( return value)
+y=not attended(return value)
+
+c- program has functions
+
+10  -number
+10.2-- decimal
+a--- character
+a,b,c -- alapha
+a,e,i,o,u--- vowel
+--- constonents
+Type is called data types
+
+10--- integer
+'a'--- charcter
+collection of characters is called string
+"abc" -- string or char array
+10.1- is derived from integer is called decimal( float,double)
+
+vector in maths--- array in programming language
+structure: 
+student : rollno,name, mark1,mark2,mark3
+rollno - data type----integer,
+name - character array
+mark1- float 80.5
+mark2 - float 90.2
+functions:
+   averageofmarks--- 
+   printdetails----
+   getdetails----
+c programming have functions and structure.
+
+combining the functions and structure is called OOPs (Object oriented programming)--C++
+
+APPLICATION PROGRAMMING - JAVA is also OOPs
+
+circle: enter the radius - r
+        constant value pi=3.14
+        functions: AreaofCircle
+	           circumferanceofCircle
+
+student: rollno,name, mark1,mark2,mark3
+	functions:
+	   averageofmarks()
+	   printdetails()
+	   getdetails()
+
+CLASS: is the collection of member(properties) and methods(student)
+objects: is the accessing the member and methods(s1,s2,...sn)
+
+s1--ojas
+s2- hemanth
+s1.rollno=101
+s1.name="ojas"
+s1.mark1=80
+s1.averageofmarks()
+s1.getdetails()
+
+
+s2.rollno=102
+s2.name="hemanth"
+s2.mark1=60
+s2.averageofmarks()
+s2.getdetails()
+
+so many class is already in java. that is called library
+
+C Programming - mainly for system programming, operating system, networking
+                EMBEDED PROGRAMING
+C++ -- MAINLY FOR GAME DEVELOPMENT
+JAVA -- MAINLY FOR APPLICATIONS DEVELOPMENT
+PYTHON - MAINLY FOR DATA ANALYTICS
+
+WEB technologies
+thehindu.com
+sathi.com
+w3schools.com
+
+gmail.com
+yahoo.com
+
+web technologies
+  HTML, CSS, JAVASCRIPT
+
+   html is nothing but building the with rooms
+   study hall, kitchen, play area, restroom, pooja room
+   CSS-->white color, blue or red, yellow
+   JAVA SCRIPT- ACTIONS OR EVENTS
+CLOUD COMPUTING: 
+
+
+process is called Hosting
+
+URL  : http://www.senthil.com
+1. first.html
+
+Hosting place is webserver(tomcat webserver)
+
+2 types of architecture
+2-tier architecture(client and server)
+3-tier architecture(server, client, webserver(tomcat))
+
+request  - client(detail or child)
+response - server(master or parent)
+
+status
+
+Domain, Vertical,Horizontal concepts,Technologies,
+Introduction about languages and programming concepts
+Important of Non-IT role in IT Department.
+Header tag
+paragraph tag
+Image tag
+List tag(ul,ol)
+Forms
+CSS Style tags
+JAVA SCRIPT script tags
+ASSIGNMENT GIVEN for developing the forms controls
+
+04-december-2025 status
+CSS Stylesheet types , inline,external,internal,Windows Navigations commands.
+mobile_first,responsive design using bootstrap,container and fluid-container concepts
+meta tag in html,generic and core attributes like id,class,style,title
+bootstrap.min.css file downloading and using cdn connections
+Afternoon
+JavaScript with script tag in head,body sections
+DOM-DOCUMENT OBJECT MODEL
+DOCUMENT.WRITE("HELLO")
+DOCUMENT (CLASS AND OBJECT)
+WRITE - METHOD
+"HELLO"- PARAMETER VALUE
+Registration form assignment
+
+05-december-2025
+Attendance count: 59
+FN
+HTML Forms, HTML5 New input types:datetime,datetime-local,date,month,week,time,range,email,url
+video,audio control
+HTML5 New input types with javascripts functions program,HTML Table,Bootstrap Button, Bootstrap tables
+Assignment
+Input Type Number,Range,Search,Tel,Time,URL,Week
+AN
+Bootstrap Grid system, responsive design, flexbox,container break point and example program, CSS BOX Model (margin,padding, border,content area),display the digital clock in java script program, addEventListerner, DOM Objects
+Assignment
+display the digital clock
+
+06-december-2025
+FN
+Y2K Problem discussion about the datatype
+Java Operator, ternary operator, digital clock design
+Function and function call, function parameter etc.
+ToDoList Program in javascript
+Installation of Node and NPM
+Installation of React app with vite
+AN
+
+
+npm install -g create-vite
+If the installation was a success, you will get a result like this:
+added 1 package in 649ms
+Create a React Application
+Run this command to create a React application named 
+my-react-app:
+npm create vite@latest my-react-app -
+ReactJS -- version 1 
+React.js  -version 1.1
+React version 22
+React Vite
+MERN 
+M-Mongo
+E- EXPRESS
+R - React
+N - NODE
+MEAN 
+a- angular - javascript  .js
+TypeScript - filename.ts
+npm install -g create-vite
+npm create vite@latest my-react-app -
+
+XML - eXtended Manipulation Language
+tabular format(matrix format) row column
+empno  empname  salary
+101    ram      30000
+102    kumar    40000
+
+XML Format of the data employee.xml
+<employee>
+   <empno>101</empno>
+   <empname>ram</empname>
+   <salary>30000</salary>
+</employee>
+<employee>
+   <empno>102</empno>
+   <empname>kumar</empname>
+   <salary>40000</salary>
+</employee>
+Data format is JSON- javascript object notation employee.json
+{empno:101;empname:ram;salary:30000}
+{empno:102;empname:kumar;salary:40000}
+
+<computer>java</computer>
+<computer>html</computer>
+
+pharase tag
+
+<h1>java</h1>
+<h1>html</h1>
+
+09-dec-2025
+Placement link login
+Front end---designed in React
+Submited there is a data
+It went into Database
+MySQL-stored the data in to database.
+MiddleWare- Java SpringBoot(Apache server etc)
+BackeND- mYSQL DATABASE
+
+Front End- React Framework ( HTML, CSS, JS, BOOTSTRAP, JQUERY)
+MiddleWare- Spring Boot Framework (Java, servlet, web server)
+Back End - MySQL Database(Tables and Datas)
+These all process they called MVC(MODEL,VIEW, CONTROLER)
+
+Front End- Angular Framework ( HTML, CSS, JS, BOOTSTRAP, JQUERY)
+MiddleWare- .net (Framework) (C#,)
+Back End - SQl Server Database(Tables and Datas)
+These all process they called MVC(MODEL,VIEW, CONTROLER)
+
+Job Market Trend
+
+What is function?
+Type of function
+  void abc(){....}
+  int abc(){... return 0}
+  void abc(a,b){...}
+  int abc(a,b){ return (a+b)}
+
+  Function without argument and without return ( eg. void abc(){....})
+  Function without argument and with return(eg.  int abc(){... return 0})
+  Function with argument and without return(eg. void abc(a,b){...})
+  Function with argument and with return(eg. int abc(a,b){ return (a+b)})
+
+  Function is declared.. Called function. abc is the name of the function
+   a, b is the parameter. Formal parameter
+   void abc(a,b){print(a+b)} 
+
+   Function Call or calling function. 10,20 is the value. Actual paramer.
+  parameter and argument both are same.
+   abc(10,20)-- 
+
+   mapping value are a=10,b =20
+
+C : DRIVE
+D: DRIVE
+E: DRIVE
+
+COMPUTER MEMORY
+200 MB
+20 MB FOR C DRIVE
+50 MB FOR D DRIVE
+130 MB FOR E DRIVE
+C DRIVE FOR OPERTING SYSTEM AND SOFTWARE INSTALLATION 
+OTHER DRIVE IS FOR STORING YOUR DATA'S
+
+ONE DRIVE DATA IS STROED IN THE CLOUD
+Attendance: 58
+FN
+Functions, React ES6 Features and es6 programs, memory management,
+Types of functions, function call, calling function, called function,
+classes and objects, formal and actual parameter
+AN
+hooks, spread operator, destructuing, useState
+
+10-December-2025
+Count: 55
+FN
+JAVA JVM, DATATYPES, DECISION STATEMENT, CONDITIONAL STATEMENT,LOOP,
+FLOWCHART, ALGORITHM, PSEUDOCODE, JAVA PROGRAMS AND EXERCISES,
+memory management,heap and stack memory
+AN
+looping, Arrays, Java array programs and React App.jsx use with Main.jsx
+array declaration, initilization, even and odd number creation in arrays etc
+
+11-december-2025
+count:55
+FN
+CLASS,OBJECT,JAVA PROGRAMS EXERCISES, CONSTRUCTOR, INHERITANCE, ABSTRACTION, METHODS,MEMBERS
+REAL TIME OBJECT CREATIONS, STUDENTS PROGRAMS
+AN
+POLYMORPHISM, METHOD OVERLOADING,EXAMPLE OF STUDENT CLASS,
+PARAMETERIZED CONSTRUCTOR,METHOD OVERLOADING(CONCEPT OF POLYMORPHISM)
+POLYMORPHISAM,constructor overloading,Method Overriding
+
+12-december-2025
+count:57
+FN
+partern print,random number generation,
+Linear Search, Bubble sort,abstract class, interface,
+inheritance types,string and program
+AN
+Collecation framework
